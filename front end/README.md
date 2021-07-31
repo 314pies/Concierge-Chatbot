@@ -1,11 +1,5 @@
-# Chatbot Concierge #
+# Chatbot Concierge Frond End
 
-## About ##
-
-Frontend starter repository for HW 1 of the Cloud Computing & Big Data
-class at Columbia University and New York University.
-
-## Usage ##
 
 1. Clone the repository.
 2. Replace `/assets/js/sdk/apigClient.js` with your own SDK file from API
