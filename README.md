@@ -1,4 +1,4 @@
-# Dining Suggestion ChatBot
+# Dining Suggestion Chatbot
 
 A serverless chatbot web app for provide dining sugesstion.  
 Built with Python 3.8, AWS Lambda, AWS Lex and Yelp API.
