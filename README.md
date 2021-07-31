@@ -4,7 +4,8 @@ A serverless chatbot web app for provide dining sugesstion.
 Built using Python, AWS Lambda, AWS Lex and Yelp API.
 
 ## Showcase
-![](https://raw.githubusercontent.com/314pies/Concierge-Chatbot-Dining-Suggestion/main/img%20host/demo.gif =x360)
+
+<img src="https://raw.githubusercontent.com/314pies/Concierge-Chatbot-Dining-Suggestion/main/img%20host/demo.gif" height="300" >
 
 Try it Yourself: https://314pies.github.io/DiningChatbotDemo/
 
