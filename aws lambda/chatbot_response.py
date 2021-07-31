@@ -12,7 +12,7 @@ lex_bot_alias = 'Production'
 
 #SQS CONFIGURATION
 is_send_to_sqs = False
-sqs_QueueName = 'HW1ChatBotSQS'
+sqs_QueueName = 'DiningSuggestionChatBotSQS'
 
 
 client = boto3.client('lex-runtime')
