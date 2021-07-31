@@ -12,4 +12,4 @@ Try it Yourself: https://314pies.github.io/DiningChatbotDemo/
 
 ## Architecture
 
-<img src="https://raw.githubusercontent.com/314pies/Dining-Suggestion-Chatbot/main/img%20host/Archi.PNG" height="480" >  
+<img src="https://raw.githubusercontent.com/314pies/Dining-Suggestion-Chatbot/main/img%20host/Archi.PNG" height="360" >  
