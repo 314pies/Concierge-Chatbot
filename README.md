@@ -10,4 +10,6 @@ Built with Python 3.8, AWS Lambda, AWS Lex and Yelp API.
 
 Try it Yourself: https://314pies.github.io/DiningChatbotDemo/
 
-## Flow Chart
+## Architecture
+
+<img src="https://raw.githubusercontent.com/314pies/Dining-Suggestion-Chatbot/main/img%20host/Archi.PNG" height="480" >  
